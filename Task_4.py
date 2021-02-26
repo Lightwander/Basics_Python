@@ -19,5 +19,4 @@ while number > 0 and max_numeric != 9:
         max_numeric = number % 10
     number = number // 10
 
-
 print(f'Максимальная цифра в числе: {max_numeric}')
